@@ -1,4 +1,4 @@
-token='process.env.BOT_TOKEN';
+token='process.env.BOT_TOKEN'
 owner=202745501345382400 
 prefix=1
 game=alpha-codes
