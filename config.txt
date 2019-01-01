@@ -1,6 +1,6 @@
-token=process.env.BOT_TOKEN
-owner=202745501345382400 
-prefix=1
-game=alpha-codes
+token=NTEyOTA1NTM4MzkzMjEwODg4.Dw0JuQ.ab_tNsV7XPOltJaTqvkBZocQFiQ
+owner=341222091523096606 
+prefix=&
+game=&help
 stayinchannel=true
 songinstatus=false
